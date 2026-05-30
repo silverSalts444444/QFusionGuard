@@ -1,0 +1,266 @@
+2026-05-23 13:22:17,660  INFO  QFusionGuard — PennyLane VQC Training starting
+2026-05-23 13:24:05,443  INFO  QFusionGuard — PennyLane VQC Training starting
+2026-05-23 13:24:14,850  INFO  QFusionGuard — PennyLane VQC Training starting
+2026-05-23 13:24:45,076  INFO  QFusionGuard — PennyLane VQC Training starting
+2026-05-23 13:25:45,611  INFO  QFusionGuard — PennyLane VQC Training starting
+2026-05-23 13:25:45,707  INFO  Epoch    0 | Loss=  16.417 | Temp=14.93 keV | Q=12.83 | Instab=0.191
+2026-05-23 13:25:46,651  INFO  Epoch   10 | Loss=  46.426 | Temp=12.33 keV | Q= 6.06 | Instab=0.265
+2026-05-23 13:25:47,597  INFO  Epoch   20 | Loss=  -3.291 | Temp=15.17 keV | Q=12.65 | Instab=0.189
+2026-05-23 13:25:48,525  INFO  Epoch   30 | Loss= -24.650 | Temp=14.55 keV | Q=14.53 | Instab=0.156
+2026-05-23 13:25:49,461  INFO  Epoch   40 | Loss= -31.408 | Temp=14.65 keV | Q=14.82 | Instab=0.094
+2026-05-23 13:25:50,439  INFO  Epoch   50 | Loss= 121.793 | Temp= 8.61 keV | Q= 0.26 | Instab=0.501
+2026-05-23 13:25:51,376  INFO  Epoch   60 | Loss= -11.410 | Temp=15.35 keV | Q=13.98 | Instab=0.202
+2026-05-23 13:25:52,325  INFO  Epoch   70 | Loss= -23.169 | Temp=15.93 keV | Q=14.21 | Instab=0.197
+2026-05-23 13:25:53,303  INFO  Epoch   80 | Loss= -16.704 | Temp=16.70 keV | Q=11.94 | Instab=0.207
+2026-05-23 13:25:54,297  INFO  Epoch   90 | Loss= -16.843 | Temp=15.94 keV | Q=14.31 | Instab=0.195
+2026-05-23 13:25:55,309  INFO  Epoch  100 | Loss= 125.838 | Temp= 9.86 keV | Q= 0.46 | Instab=0.514
+2026-05-23 13:25:56,307  INFO  Epoch  110 | Loss=  19.891 | Temp=15.43 keV | Q= 6.51 | Instab=0.193
+2026-05-23 13:25:57,309  INFO  Epoch  120 | Loss=  12.574 | Temp=15.79 keV | Q= 6.19 | Instab=0.167
+2026-05-23 13:25:58,305  INFO  Epoch  130 | Loss=  14.083 | Temp=16.31 keV | Q= 6.05 | Instab=0.197
+2026-05-23 13:25:59,329  INFO  Epoch  140 | Loss=  16.701 | Temp=15.18 keV | Q= 5.86 | Instab=0.167
+2026-05-23 13:26:00,236  WARNING  [DOOM] EPOCH 150 — SABOTAGE: Full compound sabotage — worst-case scenario
+2026-05-23 13:26:00,330  INFO  Epoch  150 | Loss= 169.937 | Temp= 7.61 keV | Q= 0.00 | Instab=0.644
+2026-05-23 13:26:01,331  INFO  Epoch  160 | Loss=  37.845 | Temp=14.18 keV | Q= 6.23 | Instab=0.259
+2026-05-23 13:26:02,321  INFO  Epoch  170 | Loss=  19.854 | Temp=15.46 keV | Q= 7.31 | Instab=0.245
+2026-05-23 13:26:03,308  INFO  Epoch  180 | Loss=  20.053 | Temp=15.17 keV | Q= 6.85 | Instab=0.232
+2026-05-23 13:26:04,309  INFO  Epoch  190 | Loss=  22.508 | Temp=16.28 keV | Q= 5.84 | Instab=0.253
+2026-05-23 13:26:05,267  WARNING  [DOOM] EPOCH 200 — BREAKDOWN: Tritium leak — fuel depleted, contamination risk | Structural stress — wall erosion from plasma
+2026-05-23 13:26:05,362  INFO  Epoch  200 | Loss= 134.936 | Temp= 8.70 keV | Q= 0.06 | Instab=0.515
+2026-05-23 13:26:06,402  INFO  Epoch  210 | Loss=  28.206 | Temp=16.04 keV | Q= 5.54 | Instab=0.232
+2026-05-23 13:26:07,435  INFO  Epoch  220 | Loss=  26.972 | Temp=16.10 keV | Q= 5.89 | Instab=0.242
+2026-05-23 13:26:08,457  INFO  Epoch  230 | Loss=  19.691 | Temp=15.61 keV | Q= 6.38 | Instab=0.197
+2026-05-23 13:26:09,447  INFO  Epoch  240 | Loss=  25.465 | Temp=16.30 keV | Q= 5.51 | Instab=0.232
+2026-05-23 13:26:10,352  WARNING  [DOOM] EPOCH 250 — BREAKDOWN: Plasma loses confinement, strikes the walls
+2026-05-23 13:26:10,450  INFO  Epoch  250 | Loss= 133.440 | Temp= 9.34 keV | Q= 0.19 | Instab=0.484
+2026-05-23 13:26:11,458  INFO  Epoch  260 | Loss=  22.951 | Temp=16.30 keV | Q= 5.56 | Instab=0.213
+2026-05-23 13:26:12,485  INFO  Epoch  270 | Loss=  23.651 | Temp=16.51 keV | Q= 5.31 | Instab=0.211
+2026-05-23 13:26:13,576  INFO  Epoch  280 | Loss=  17.638 | Temp=16.12 keV | Q= 5.85 | Instab=0.174
+2026-05-23 13:26:15,091  INFO  Epoch  290 | Loss=  16.362 | Temp=15.53 keV | Q= 6.46 | Instab=0.173
+2026-05-23 13:26:16,825  INFO  [DOOM] 5 attacks: 4 breakdowns, 1 sabotages
+2026-05-23 13:26:41,763  INFO  Starting closed-loop control
+2026-05-23 13:26:41,791  INFO  Step   0 | B=11.97T  Flow=0.0537g/s  T=14.7keV  shape=1.90 | ActualT=15.69  Q=6.61  Risk=0.215
+2026-05-23 13:26:41,811  INFO  Step   1 | B=11.93T  Flow=0.0532g/s  T=14.8keV  shape=1.88 | ActualT=16.03  Q=6.14  Risk=0.197
+2026-05-23 13:26:41,832  INFO  Step   2 | B=11.97T  Flow=0.0524g/s  T=14.7keV  shape=1.88 | ActualT=16.49  Q=5.41  Risk=0.210
+2026-05-23 13:26:41,858  INFO  Step   3 | B=11.98T  Flow=0.0529g/s  T=14.8keV  shape=1.88 | ActualT=16.41  Q=5.39  Risk=0.240
+2026-05-23 13:26:41,878  INFO  Step   4 | B=11.97T  Flow=0.0543g/s  T=14.9keV  shape=1.88 | ActualT=16.08  Q=5.92  Risk=0.202
+2026-05-23 13:26:41,900  INFO  Step   5 | B=11.95T  Flow=0.0532g/s  T=14.5keV  shape=1.92 | ActualT=15.86  Q=6.25  Risk=0.211
+2026-05-23 13:26:41,921  INFO  Step   6 | B=11.94T  Flow=0.0535g/s  T=14.6keV  shape=1.91 | ActualT=16.20  Q=5.66  Risk=0.224
+2026-05-23 13:26:41,944  INFO  Step   7 | B=11.95T  Flow=0.0543g/s  T=14.5keV  shape=1.92 | ActualT=15.87  Q=6.18  Risk=0.238
+2026-05-23 13:26:41,968  INFO  Step   8 | B=11.92T  Flow=0.0549g/s  T=14.5keV  shape=1.91 | ActualT=16.12  Q=5.92  Risk=0.212
+2026-05-23 13:26:41,992  INFO  Step   9 | B=11.95T  Flow=0.0539g/s  T=14.5keV  shape=1.93 | ActualT=16.02  Q=5.80  Risk=0.190
+2026-05-23 13:26:42,010  INFO  Step  10 | B=11.93T  Flow=0.0536g/s  T=14.2keV  shape=1.96 | ActualT=15.37  Q=6.37  Risk=0.209
+2026-05-23 13:26:42,045  INFO  Step  11 | B=11.83T  Flow=0.0546g/s  T=14.2keV  shape=1.96 | ActualT=15.36  Q=7.06  Risk=0.231
+2026-05-23 13:26:42,070  INFO  Step  12 | B=11.86T  Flow=0.0541g/s  T=14.8keV  shape=1.88 | ActualT=15.02  Q=6.91  Risk=0.202
+2026-05-23 13:26:42,091  INFO  Step  13 | B=11.80T  Flow=0.0529g/s  T=14.7keV  shape=1.88 | ActualT=15.67  Q=6.50  Risk=0.178
+2026-05-23 13:26:42,111  INFO  Step  14 | B=11.93T  Flow=0.0517g/s  T=14.5keV  shape=1.90 | ActualT=15.71  Q=6.38  Risk=0.152
+2026-05-23 13:26:42,131  INFO  Step  15 | B=11.93T  Flow=0.0507g/s  T=14.3keV  shape=1.91 | ActualT=15.79  Q=5.93  Risk=0.143
+2026-05-23 13:26:42,154  INFO  Step  16 | B=11.92T  Flow=0.0511g/s  T=14.2keV  shape=1.95 | ActualT=15.87  Q=6.13  Risk=0.167
+2026-05-23 13:26:42,174  INFO  Step  17 | B=11.94T  Flow=0.0517g/s  T=14.4keV  shape=1.92 | ActualT=16.13  Q=5.90  Risk=0.179
+2026-05-23 13:26:42,195  INFO  Step  18 | B=11.97T  Flow=0.0517g/s  T=14.6keV  shape=1.90 | ActualT=16.28  Q=5.72  Risk=0.210
+2026-05-23 13:26:42,216  INFO  Step  19 | B=11.97T  Flow=0.0527g/s  T=14.9keV  shape=1.87 | ActualT=16.38  Q=5.44  Risk=0.200
+2026-05-23 13:26:42,238  INFO  Step  20 | B=11.97T  Flow=0.0527g/s  T=14.6keV  shape=1.91 | ActualT=16.25  Q=5.83  Risk=0.211
+2026-05-23 13:26:42,258  INFO  Step  21 | B=11.97T  Flow=0.0531g/s  T=14.8keV  shape=1.89 | ActualT=15.94  Q=6.28  Risk=0.282
+2026-05-23 13:26:42,278  INFO  Step  22 | B=11.95T  Flow=0.0556g/s  T=15.2keV  shape=1.83 | ActualT=16.26  Q=5.91  Risk=0.255
+2026-05-23 13:26:42,298  INFO  Step  23 | B=11.97T  Flow=0.0547g/s  T=15.0keV  shape=1.86 | ActualT=16.30  Q=5.87  Risk=0.191
+2026-05-23 13:26:42,317  INFO  Step  24 | B=11.98T  Flow=0.0521g/s  T=14.7keV  shape=1.89 | ActualT=16.01  Q=5.92  Risk=0.171
+2026-05-23 13:26:42,336  INFO  Step  25 | B=11.96T  Flow=0.0517g/s  T=14.4keV  shape=1.92 | ActualT=15.89  Q=6.27  Risk=0.194
+2026-05-23 13:26:42,355  INFO  Step  26 | B=11.95T  Flow=0.0523g/s  T=14.7keV  shape=1.89 | ActualT=16.10  Q=6.10  Risk=0.225
+2026-05-23 13:26:42,374  INFO  Step  27 | B=11.97T  Flow=0.0533g/s  T=15.0keV  shape=1.86 | ActualT=16.71  Q=4.92  Risk=0.217
+2026-05-23 13:26:42,392  INFO  Step  28 | B=11.97T  Flow=0.0533g/s  T=14.8keV  shape=1.89 | ActualT=16.69  Q=5.27  Risk=0.206
+2026-05-23 13:26:42,412  INFO  Step  29 | B=11.98T  Flow=0.0523g/s  T=14.9keV  shape=1.86 | ActualT=16.98  Q=4.42  Risk=0.247
+2026-05-23 13:26:42,430  INFO  Step  30 | B=11.95T  Flow=0.0544g/s  T=15.0keV  shape=1.87 | ActualT=16.73  Q=5.04  Risk=0.265
+2026-05-23 13:26:42,452  INFO  Step  31 | B=11.97T  Flow=0.0550g/s  T=15.1keV  shape=1.85 | ActualT=15.94  Q=6.21  Risk=0.233
+2026-05-23 13:26:42,472  INFO  Step  32 | B=11.95T  Flow=0.0542g/s  T=14.8keV  shape=1.89 | ActualT=15.57  Q=6.52  Risk=0.206
+2026-05-23 13:26:42,503  INFO  Step  33 | B=11.90T  Flow=0.0534g/s  T=14.6keV  shape=1.91 | ActualT=15.90  Q=6.34  Risk=0.211
+2026-05-23 13:26:42,523  INFO  Step  34 | B=11.95T  Flow=0.0532g/s  T=14.8keV  shape=1.89 | ActualT=16.19  Q=5.80  Risk=0.212
+2026-05-23 13:26:42,561  INFO  Step  35 | B=11.97T  Flow=0.0532g/s  T=14.7keV  shape=1.90 | ActualT=15.99  Q=5.73  Risk=0.240
+2026-05-23 13:26:42,592  INFO  Step  36 | B=11.93T  Flow=0.0553g/s  T=14.5keV  shape=1.92 | ActualT=16.20  Q=6.01  Risk=0.227
+2026-05-23 13:26:42,615  INFO  Step  37 | B=11.96T  Flow=0.0541g/s  T=14.7keV  shape=1.90 | ActualT=16.63  Q=4.98  Risk=0.236
+2026-05-23 13:26:42,637  INFO  Step  38 | B=11.96T  Flow=0.0549g/s  T=14.5keV  shape=1.92 | ActualT=16.61  Q=5.11  Risk=0.256
+2026-05-23 13:26:42,665  INFO  Step  39 | B=11.95T  Flow=0.0556g/s  T=14.5keV  shape=1.91 | ActualT=16.06  Q=6.00  Risk=0.242
+2026-05-23 13:26:42,689  INFO  Step  40 | B=11.94T  Flow=0.0551g/s  T=14.6keV  shape=1.91 | ActualT=15.47  Q=6.70  Risk=0.213
+2026-05-23 13:26:42,710  INFO  Step  41 | B=11.87T  Flow=0.0538g/s  T=14.5keV  shape=1.91 | ActualT=15.93  Q=5.58  Risk=0.222
+2026-05-23 13:26:42,730  INFO  Step  42 | B=11.90T  Flow=0.0557g/s  T=14.0keV  shape=1.97 | ActualT=15.56  Q=6.26  Risk=0.248
+2026-05-23 13:26:42,754  INFO  Step  43 | B=11.84T  Flow=0.0567g/s  T=14.0keV  shape=1.95 | ActualT=15.13  Q=6.34  Risk=0.206
+2026-05-23 13:26:42,779  INFO  Step  44 | B=11.75T  Flow=0.0557g/s  T=13.8keV  shape=1.99 | ActualT=15.43  Q=6.94  Risk=0.210
+2026-05-23 13:26:42,800  INFO  Step  45 | B=11.85T  Flow=0.0541g/s  T=14.4keV  shape=1.94 | ActualT=15.09  Q=6.54  Risk=0.177
+2026-05-23 13:26:42,830  INFO  Step  46 | B=11.78T  Flow=0.0533g/s  T=14.1keV  shape=1.96 | ActualT=14.83  Q=6.71  Risk=0.157
+2026-05-23 13:26:42,854  INFO  Step  47 | B=11.72T  Flow=0.0520g/s  T=14.1keV  shape=1.94 | ActualT=15.42  Q=6.33  Risk=0.168
+2026-05-23 13:26:42,898  INFO  Step  48 | B=11.86T  Flow=0.0526g/s  T=14.2keV  shape=1.95 | ActualT=15.98  Q=5.78  Risk=0.179
+2026-05-23 13:26:42,937  INFO  Step  49 | B=11.92T  Flow=0.0533g/s  T=14.2keV  shape=1.98 | ActualT=15.88  Q=5.92  Risk=0.189
+2026-05-23 13:27:44,356  INFO  QFusionGuard — PennyLane VQC Training starting
+2026-05-23 13:27:44,448  INFO  Epoch    0 | Loss=  24.760 | Temp=15.37 keV | Q=11.36 | Instab=0.186
+2026-05-23 13:27:45,398  INFO  Epoch   10 | Loss=  28.320 | Temp=12.50 keV | Q= 8.68 | Instab=0.259
+2026-05-23 13:27:46,357  INFO  Epoch   20 | Loss= -37.773 | Temp=13.98 keV | Q=16.83 | Instab=0.165
+2026-05-23 13:27:47,310  INFO  Epoch   30 | Loss= -45.193 | Temp=15.62 keV | Q=20.00 | Instab=0.220
+2026-05-23 13:27:48,275  INFO  Epoch   40 | Loss= -53.850 | Temp=16.03 keV | Q=19.50 | Instab=0.157
+2026-05-23 13:27:49,138  WARNING  [DOOM] EPOCH 50 — BREAKDOWN: Uncontrolled radiation spike | Reactor overheating -> potential explosion risk
+2026-05-23 13:27:49,244  INFO  Epoch   50 | Loss= 126.198 | Temp=12.82 keV | Q= 3.17 | Instab=0.411
+2026-05-23 13:27:50,190  INFO  Epoch   60 | Loss=  19.883 | Temp=12.90 keV | Q= 5.33 | Instab=0.158
+2026-05-23 13:27:51,152  INFO  Epoch   70 | Loss=  18.473 | Temp=13.10 keV | Q= 5.87 | Instab=0.196
+2026-05-23 13:27:52,112  INFO  Epoch   80 | Loss=  19.790 | Temp=12.79 keV | Q= 5.31 | Instab=0.238
+2026-05-23 13:27:53,074  INFO  Epoch   90 | Loss=  23.295 | Temp=12.48 keV | Q= 4.86 | Instab=0.231
+2026-05-23 13:27:53,938  WARNING  [DOOM] EPOCH 100 — BREAKDOWN: Reactor overheating -> potential explosion risk
+2026-05-23 13:27:54,028  INFO  Epoch  100 | Loss= 106.534 | Temp=11.90 keV | Q= 2.62 | Instab=0.339
+2026-05-23 13:27:54,987  INFO  Epoch  110 | Loss=  28.881 | Temp=12.04 keV | Q= 3.70 | Instab=0.254
+2026-05-23 13:27:55,960  INFO  Epoch  120 | Loss=  13.591 | Temp=12.91 keV | Q= 5.67 | Instab=0.170
+2026-05-23 13:27:56,924  INFO  Epoch  130 | Loss=  14.449 | Temp=13.38 keV | Q= 6.84 | Instab=0.193
+2026-05-23 13:27:57,893  INFO  Epoch  140 | Loss=  13.278 | Temp=13.47 keV | Q= 7.05 | Instab=0.220
+2026-05-23 13:27:58,771  WARNING  [DOOM] EPOCH 150 — SABOTAGE: Full compound sabotage — worst-case scenario
+2026-05-23 13:27:58,864  INFO  Epoch  150 | Loss= 146.070 | Temp= 6.80 keV | Q= 0.01 | Instab=0.672
+2026-05-23 13:27:59,843  INFO  Epoch  160 | Loss=  11.075 | Temp=13.55 keV | Q= 7.17 | Instab=0.175
+2026-05-23 13:28:00,824  INFO  Epoch  170 | Loss=  -2.335 | Temp=14.55 keV | Q= 8.33 | Instab=0.098
+2026-05-23 13:28:01,815  INFO  Epoch  180 | Loss=   3.422 | Temp=14.37 keV | Q= 7.96 | Instab=0.157
+2026-05-23 13:28:02,797  INFO  Epoch  190 | Loss=   1.986 | Temp=14.38 keV | Q= 8.00 | Instab=0.169
+2026-05-23 13:28:03,680  WARNING  [DOOM] EPOCH 200 — BREAKDOWN: Hydrogen accumulation -> explosion risk
+2026-05-23 13:28:03,776  INFO  Epoch  200 | Loss=  70.223 | Temp=11.43 keV | Q= 2.15 | Instab=0.358
+2026-05-23 13:28:04,760  INFO  Epoch  210 | Loss=  -3.103 | Temp=14.84 keV | Q= 8.00 | Instab=0.110
+2026-05-23 13:28:05,753  INFO  Epoch  220 | Loss=  14.817 | Temp=13.35 keV | Q= 6.11 | Instab=0.219
+2026-05-23 13:28:06,729  INFO  Epoch  230 | Loss=   0.371 | Temp=14.15 keV | Q= 7.68 | Instab=0.181
+2026-05-23 13:28:07,738  INFO  Epoch  240 | Loss=   2.106 | Temp=14.57 keV | Q= 8.01 | Instab=0.115
+2026-05-23 13:28:08,660  WARNING  [DOOM] EPOCH 250 — BREAKDOWN: Tritium leak — fuel depleted, contamination risk
+2026-05-23 13:28:08,759  INFO  Epoch  250 | Loss=  18.084 | Temp=14.32 keV | Q= 7.28 | Instab=0.183
+2026-05-23 13:28:09,763  INFO  Epoch  260 | Loss=  -3.570 | Temp=14.21 keV | Q= 8.11 | Instab=0.125
+2026-05-23 13:28:10,738  INFO  Epoch  270 | Loss=  -4.627 | Temp=15.04 keV | Q= 8.33 | Instab=0.105
+2026-05-23 13:28:11,727  INFO  Epoch  280 | Loss=  -0.334 | Temp=14.92 keV | Q= 8.16 | Instab=0.158
+2026-05-23 13:28:12,693  INFO  Epoch  290 | Loss=  -0.892 | Temp=15.08 keV | Q= 8.33 | Instab=0.159
+2026-05-23 13:28:13,579  INFO  [DOOM] 5 attacks: 4 breakdowns, 1 sabotages
+2026-05-23 13:28:58,180  INFO  Starting closed-loop control
+2026-05-23 13:28:58,195  INFO  Step   0 | B=11.99T  Flow=0.0675g/s  T=12.6keV  shape=1.80 | ActualT=14.51  Q=8.18  Risk=0.164
+2026-05-23 13:28:58,208  INFO  Step   1 | B=11.99T  Flow=0.0682g/s  T=12.7keV  shape=1.76 | ActualT=15.02  Q=8.23  Risk=0.179
+2026-05-23 13:28:58,220  INFO  Step   2 | B=11.99T  Flow=0.0681g/s  T=12.6keV  shape=1.76 | ActualT=15.35  Q=8.11  Risk=0.145
+2026-05-23 13:28:58,233  INFO  Step   3 | B=11.98T  Flow=0.0676g/s  T=12.6keV  shape=1.81 | ActualT=15.01  Q=8.31  Risk=0.157
+2026-05-23 13:28:58,245  INFO  Step   4 | B=11.99T  Flow=0.0681g/s  T=12.6keV  shape=1.79 | ActualT=14.62  Q=8.33  Risk=0.148
+2026-05-23 13:28:58,257  INFO  Step   5 | B=11.99T  Flow=0.0680g/s  T=12.7keV  shape=1.78 | ActualT=14.39  Q=8.16  Risk=0.117
+2026-05-23 13:28:58,270  INFO  Step   6 | B=11.99T  Flow=0.0679g/s  T=12.8keV  shape=1.82 | ActualT=14.44  Q=8.33  Risk=0.103
+2026-05-23 13:28:58,282  INFO  Step   7 | B=11.99T  Flow=0.0677g/s  T=12.8keV  shape=1.84 | ActualT=14.89  Q=8.33  Risk=0.123
+2026-05-23 13:28:58,296  INFO  Step   8 | B=11.99T  Flow=0.0673g/s  T=12.7keV  shape=1.82 | ActualT=14.59  Q=8.33  Risk=0.142
+2026-05-23 13:28:58,307  INFO  Step   9 | B=11.99T  Flow=0.0677g/s  T=12.6keV  shape=1.79 | ActualT=14.51  Q=8.08  Risk=0.174
+2026-05-23 13:28:58,320  INFO  Step  10 | B=11.99T  Flow=0.0683g/s  T=12.7keV  shape=1.76 | ActualT=13.99  Q=7.78  Risk=0.136
+2026-05-23 13:28:58,332  INFO  Step  11 | B=11.99T  Flow=0.0674g/s  T=12.8keV  shape=1.78 | ActualT=14.64  Q=8.33  Risk=0.150
+2026-05-23 13:28:58,344  INFO  Step  12 | B=11.99T  Flow=0.0674g/s  T=12.6keV  shape=1.78 | ActualT=14.42  Q=7.98  Risk=0.183
+2026-05-23 13:28:58,356  INFO  Step  13 | B=11.99T  Flow=0.0682g/s  T=12.7keV  shape=1.74 | ActualT=15.21  Q=7.99  Risk=0.170
+2026-05-23 13:28:58,370  INFO  Step  14 | B=11.99T  Flow=0.0678g/s  T=12.6keV  shape=1.78 | ActualT=15.20  Q=8.33  Risk=0.127
+2026-05-23 13:28:58,384  INFO  Step  15 | B=11.99T  Flow=0.0675g/s  T=12.6keV  shape=1.82 | ActualT=15.39  Q=8.33  Risk=0.113
+2026-05-23 13:28:58,397  INFO  Step  16 | B=11.99T  Flow=0.0670g/s  T=12.7keV  shape=1.84 | ActualT=15.07  Q=8.30  Risk=0.137
+2026-05-23 13:28:58,409  INFO  Step  17 | B=11.99T  Flow=0.0680g/s  T=12.6keV  shape=1.81 | ActualT=15.04  Q=8.33  Risk=0.162
+2026-05-23 13:28:58,421  INFO  Step  18 | B=11.99T  Flow=0.0679g/s  T=12.6keV  shape=1.78 | ActualT=14.45  Q=8.23  Risk=0.116
+2026-05-23 13:28:58,434  INFO  Step  19 | B=11.99T  Flow=0.0677g/s  T=12.8keV  shape=1.82 | ActualT=14.63  Q=8.33  Risk=0.116
+2026-05-23 13:28:58,448  INFO  Step  20 | B=11.99T  Flow=0.0666g/s  T=12.7keV  shape=1.81 | ActualT=14.39  Q=8.21  Risk=0.161
+2026-05-23 13:28:58,461  INFO  Step  21 | B=11.99T  Flow=0.0680g/s  T=12.7keV  shape=1.76 | ActualT=14.16  Q=7.84  Risk=0.156
+2026-05-23 13:28:58,474  INFO  Step  22 | B=11.99T  Flow=0.0679g/s  T=12.8keV  shape=1.76 | ActualT=13.95  Q=7.82  Risk=0.144
+2026-05-23 13:28:58,489  INFO  Step  23 | B=11.99T  Flow=0.0670g/s  T=12.8keV  shape=1.76 | ActualT=14.00  Q=7.78  Risk=0.143
+2026-05-23 13:28:58,503  INFO  Step  24 | B=11.99T  Flow=0.0670g/s  T=12.8keV  shape=1.76 | ActualT=14.23  Q=7.96  Risk=0.177
+2026-05-23 13:28:58,517  INFO  Step  25 | B=11.99T  Flow=0.0676g/s  T=12.7keV  shape=1.73 | ActualT=14.56  Q=8.31  Risk=0.138
+2026-05-23 13:28:58,530  INFO  Step  26 | B=11.99T  Flow=0.0672g/s  T=12.7keV  shape=1.79 | ActualT=14.30  Q=8.03  Risk=0.157
+2026-05-23 13:28:58,541  INFO  Step  27 | B=11.99T  Flow=0.0679g/s  T=12.7keV  shape=1.76 | ActualT=14.45  Q=7.96  Risk=0.164
+2026-05-23 13:28:58,554  INFO  Step  28 | B=11.99T  Flow=0.0682g/s  T=12.7keV  shape=1.76 | ActualT=14.27  Q=7.97  Risk=0.168
+2026-05-23 13:28:58,567  INFO  Step  29 | B=11.99T  Flow=0.0681g/s  T=12.8keV  shape=1.75 | ActualT=14.16  Q=7.54  Risk=0.147
+2026-05-23 13:28:58,581  INFO  Step  30 | B=12.00T  Flow=0.0681g/s  T=12.9keV  shape=1.78 | ActualT=14.62  Q=7.76  Risk=0.141
+2026-05-23 13:28:58,592  INFO  Step  31 | B=12.00T  Flow=0.0678g/s  T=12.7keV  shape=1.81 | ActualT=14.54  Q=7.89  Risk=0.140
+2026-05-23 13:28:58,604  INFO  Step  32 | B=12.00T  Flow=0.0681g/s  T=12.7keV  shape=1.81 | ActualT=14.60  Q=8.09  Risk=0.158
+2026-05-23 13:28:58,615  INFO  Step  33 | B=11.99T  Flow=0.0683g/s  T=12.7keV  shape=1.78 | ActualT=14.28  Q=7.75  Risk=0.179
+2026-05-23 13:28:58,626  INFO  Step  34 | B=11.99T  Flow=0.0683g/s  T=12.8keV  shape=1.75 | ActualT=14.53  Q=8.12  Risk=0.154
+2026-05-23 13:28:58,637  INFO  Step  35 | B=11.99T  Flow=0.0680g/s  T=12.7keV  shape=1.78 | ActualT=14.21  Q=7.67  Risk=0.147
+2026-05-23 13:28:58,649  INFO  Step  36 | B=11.99T  Flow=0.0682g/s  T=12.9keV  shape=1.78 | ActualT=14.33  Q=7.77  Risk=0.143
+2026-05-23 13:28:58,661  INFO  Step  37 | B=11.97T  Flow=0.0682g/s  T=12.9keV  shape=1.79 | ActualT=14.37  Q=7.66  Risk=0.134
+2026-05-23 13:28:58,672  INFO  Step  38 | B=11.98T  Flow=0.0679g/s  T=12.9keV  shape=1.81 | ActualT=14.23  Q=7.96  Risk=0.158
+2026-05-23 13:28:58,685  INFO  Step  39 | B=11.98T  Flow=0.0684g/s  T=12.8keV  shape=1.76 | ActualT=14.41  Q=7.99  Risk=0.142
+2026-05-23 13:28:58,699  INFO  Step  40 | B=11.99T  Flow=0.0682g/s  T=12.8keV  shape=1.79 | ActualT=14.54  Q=8.15  Risk=0.144
+2026-05-23 13:28:58,711  INFO  Step  41 | B=11.98T  Flow=0.0682g/s  T=12.8keV  shape=1.79 | ActualT=15.00  Q=8.30  Risk=0.160
+2026-05-23 13:28:58,722  INFO  Step  42 | B=11.99T  Flow=0.0682g/s  T=12.6keV  shape=1.79 | ActualT=14.50  Q=7.84  Risk=0.157
+2026-05-23 13:28:58,735  INFO  Step  43 | B=12.00T  Flow=0.0682g/s  T=12.8keV  shape=1.78 | ActualT=14.18  Q=7.70  Risk=0.165
+2026-05-23 13:28:58,749  INFO  Step  44 | B=12.00T  Flow=0.0682g/s  T=12.9keV  shape=1.76 | ActualT=14.33  Q=7.40  Risk=0.151
+2026-05-23 13:28:58,764  INFO  Step  45 | B=12.00T  Flow=0.0678g/s  T=12.9keV  shape=1.79 | ActualT=14.68  Q=7.57  Risk=0.155
+2026-05-23 13:28:58,775  INFO  Step  46 | B=12.00T  Flow=0.0673g/s  T=12.7keV  shape=1.80 | ActualT=14.39  Q=7.59  Risk=0.174
+2026-05-23 13:28:58,787  INFO  Step  47 | B=11.99T  Flow=0.0680g/s  T=12.9keV  shape=1.76 | ActualT=14.45  Q=7.49  Risk=0.193
+2026-05-23 13:28:58,799  INFO  Step  48 | B=11.99T  Flow=0.0677g/s  T=12.9keV  shape=1.75 | ActualT=14.42  Q=7.53  Risk=0.175
+2026-05-23 13:28:58,809  INFO  Step  49 | B=11.99T  Flow=0.0680g/s  T=12.9keV  shape=1.76 | ActualT=14.36  Q=7.40  Risk=0.178
+2026-05-23 13:55:27,300  INFO  QFusionGuard — PennyLane VQC Training starting
+2026-05-23 13:55:27,399  INFO  Epoch    0 | Loss=  13.326 | Temp=14.48 keV | Q=12.84 | Instab=0.202
+2026-05-23 13:55:28,355  INFO  Epoch   10 | Loss=  22.651 | Temp=14.87 keV | Q= 9.94 | Instab=0.188
+2026-05-23 13:55:29,327  INFO  Epoch   20 | Loss=  -2.493 | Temp=15.44 keV | Q=12.23 | Instab=0.177
+2026-05-23 13:55:30,297  INFO  Epoch   30 | Loss= -19.244 | Temp=16.67 keV | Q=12.88 | Instab=0.213
+2026-05-23 13:55:31,273  INFO  Epoch   40 | Loss= -18.829 | Temp=17.30 keV | Q=11.22 | Instab=0.180
+2026-05-23 13:55:32,173  WARNING  [DOOM] EPOCH 50 — BREAKDOWN: Tritium leak — fuel depleted, contamination risk | Superconducting magnet failure -> plasma loss
+2026-05-23 13:55:32,266  INFO  Epoch   50 | Loss= 126.428 | Temp=11.62 keV | Q= 1.86 | Instab=0.446
+2026-05-23 13:55:33,243  INFO  Epoch   60 | Loss=  -1.776 | Temp=14.95 keV | Q=12.36 | Instab=0.177
+2026-05-23 13:55:34,218  INFO  Epoch   70 | Loss= -19.997 | Temp=14.47 keV | Q=14.60 | Instab=0.182
+2026-05-23 13:55:35,220  INFO  Epoch   80 | Loss= -23.338 | Temp=13.67 keV | Q=13.96 | Instab=0.199
+2026-05-23 13:55:36,211  INFO  Epoch   90 | Loss= -32.972 | Temp=13.81 keV | Q=15.62 | Instab=0.228
+2026-05-23 13:55:37,113  WARNING  [DOOM] EPOCH 100 — BREAKDOWN: Reactor overheating -> potential explosion risk | Hydrogen accumulation -> explosion risk
+2026-05-23 13:55:37,208  INFO  Epoch  100 | Loss= 129.458 | Temp= 9.35 keV | Q= 0.25 | Instab=0.464
+2026-05-23 13:55:38,196  INFO  Epoch  110 | Loss=  56.852 | Temp=15.40 keV | Q= 4.52 | Instab=0.164
+2026-05-23 13:55:39,184  INFO  Epoch  120 | Loss=  25.509 | Temp=16.71 keV | Q= 4.51 | Instab=0.197
+2026-05-23 13:55:40,188  INFO  Epoch  130 | Loss=  34.195 | Temp=16.50 keV | Q= 4.22 | Instab=0.227
+2026-05-23 13:55:41,195  INFO  Epoch  140 | Loss=  28.329 | Temp=16.42 keV | Q= 4.45 | Instab=0.182
+2026-05-23 13:55:42,081  WARNING  [DOOM] EPOCH 150 — SABOTAGE: Full compound sabotage — worst-case scenario
+2026-05-23 13:55:42,187  INFO  Epoch  150 | Loss= 164.274 | Temp= 8.56 keV | Q= 0.01 | Instab=0.647
+2026-05-23 13:55:43,186  INFO  Epoch  160 | Loss=  38.156 | Temp=16.52 keV | Q= 4.00 | Instab=0.251
+2026-05-23 13:55:44,173  INFO  Epoch  170 | Loss=  28.024 | Temp=16.74 keV | Q= 3.69 | Instab=0.205
+2026-05-23 13:55:45,172  INFO  Epoch  180 | Loss=  31.234 | Temp=16.85 keV | Q= 3.94 | Instab=0.194
+2026-05-23 13:55:46,168  INFO  Epoch  190 | Loss=  34.684 | Temp=16.89 keV | Q= 3.74 | Instab=0.205
+2026-05-23 13:55:47,066  WARNING  [DOOM] EPOCH 200 — BREAKDOWN: Reactor overheating -> potential explosion risk
+2026-05-23 13:55:47,162  INFO  Epoch  200 | Loss=  59.816 | Temp=14.46 keV | Q= 5.32 | Instab=0.216
+2026-05-23 13:55:48,170  INFO  Epoch  210 | Loss=  31.631 | Temp=16.14 keV | Q= 4.69 | Instab=0.208
+2026-05-23 13:55:49,178  INFO  Epoch  220 | Loss=  27.862 | Temp=16.36 keV | Q= 4.63 | Instab=0.219
+2026-05-23 13:55:50,191  INFO  Epoch  230 | Loss=  29.175 | Temp=16.07 keV | Q= 4.80 | Instab=0.176
+2026-05-23 13:55:51,212  INFO  Epoch  240 | Loss=  34.222 | Temp=16.82 keV | Q= 4.01 | Instab=0.228
+2026-05-23 13:55:52,131  WARNING  [DOOM] EPOCH 250 — BREAKDOWN: Structural stress — wall erosion from plasma | Plasma loses confinement, strikes the walls
+2026-05-23 13:55:52,228  INFO  Epoch  250 | Loss= 112.874 | Temp= 8.78 keV | Q= 0.14 | Instab=0.512
+2026-05-23 13:55:53,240  INFO  Epoch  260 | Loss=  33.683 | Temp=16.27 keV | Q= 4.45 | Instab=0.213
+2026-05-23 13:55:54,256  INFO  Epoch  270 | Loss=  33.330 | Temp=17.03 keV | Q= 3.41 | Instab=0.216
+2026-05-23 13:55:55,277  INFO  Epoch  280 | Loss=  32.281 | Temp=16.70 keV | Q= 3.80 | Instab=0.238
+2026-05-23 13:55:56,299  INFO  Epoch  290 | Loss=  29.550 | Temp=16.14 keV | Q= 4.65 | Instab=0.231
+2026-05-23 13:55:57,217  INFO  [DOOM] 5 attacks: 4 breakdowns, 1 sabotages
+2026-05-23 13:59:50,348  INFO  Starting closed-loop control
+2026-05-23 13:59:50,371  INFO  Step   0 | B=11.96T  Flow=0.0508g/s  T=15.4keV  shape=1.54 | ActualT=16.89  Q=3.74  Risk=0.209
+2026-05-23 13:59:50,409  INFO  Step   1 | B=11.98T  Flow=0.0507g/s  T=15.4keV  shape=1.53 | ActualT=16.52  Q=4.28  Risk=0.245
+2026-05-23 13:59:50,442  INFO  Step   2 | B=11.93T  Flow=0.0514g/s  T=15.3keV  shape=1.54 | ActualT=16.97  Q=3.71  Risk=0.227
+2026-05-23 13:59:50,463  INFO  Step   3 | B=11.95T  Flow=0.0509g/s  T=15.4keV  shape=1.53 | ActualT=16.30  Q=4.54  Risk=0.225
+2026-05-23 13:59:50,483  INFO  Step   4 | B=11.97T  Flow=0.0513g/s  T=15.2keV  shape=1.54 | ActualT=16.49  Q=4.09  Risk=0.228
+2026-05-23 13:59:50,508  INFO  Step   5 | B=11.91T  Flow=0.0512g/s  T=15.3keV  shape=1.56 | ActualT=16.78  Q=3.84  Risk=0.205
+2026-05-23 13:59:50,528  INFO  Step   6 | B=11.97T  Flow=0.0507g/s  T=15.4keV  shape=1.54 | ActualT=16.80  Q=3.71  Risk=0.210
+2026-05-23 13:59:50,551  INFO  Step   7 | B=11.93T  Flow=0.0507g/s  T=15.4keV  shape=1.55 | ActualT=16.86  Q=3.59  Risk=0.209
+2026-05-23 13:59:50,573  INFO  Step   8 | B=11.91T  Flow=0.0508g/s  T=15.4keV  shape=1.55 | ActualT=16.88  Q=3.46  Risk=0.212
+2026-05-23 13:59:50,593  INFO  Step   9 | B=11.74T  Flow=0.0509g/s  T=15.3keV  shape=1.58 | ActualT=16.83  Q=3.87  Risk=0.207
+2026-05-23 13:59:50,615  INFO  Step  10 | B=11.98T  Flow=0.0506g/s  T=15.4keV  shape=1.54 | ActualT=16.86  Q=3.59  Risk=0.197
+2026-05-23 13:59:50,649  INFO  Step  11 | B=11.92T  Flow=0.0505g/s  T=15.4keV  shape=1.55 | ActualT=16.91  Q=3.51  Risk=0.260
+2026-05-23 13:59:50,670  INFO  Step  12 | B=11.89T  Flow=0.0512g/s  T=15.4keV  shape=1.57 | ActualT=17.14  Q=3.37  Risk=0.252
+2026-05-23 13:59:50,691  INFO  Step  13 | B=11.93T  Flow=0.0510g/s  T=15.4keV  shape=1.56 | ActualT=16.88  Q=3.67  Risk=0.260
+2026-05-23 13:59:50,712  INFO  Step  14 | B=11.92T  Flow=0.0512g/s  T=15.3keV  shape=1.57 | ActualT=16.45  Q=4.26  Risk=0.260
+2026-05-23 13:59:50,734  INFO  Step  15 | B=11.91T  Flow=0.0515g/s  T=15.2keV  shape=1.57 | ActualT=16.61  Q=4.06  Risk=0.213
+2026-05-23 13:59:50,756  INFO  Step  16 | B=11.93T  Flow=0.0510g/s  T=15.3keV  shape=1.55 | ActualT=16.16  Q=4.60  Risk=0.195
+2026-05-23 13:59:50,777  INFO  Step  17 | B=11.97T  Flow=0.0509g/s  T=15.2keV  shape=1.55 | ActualT=16.52  Q=4.11  Risk=0.218
+2026-05-23 13:59:50,797  INFO  Step  18 | B=11.97T  Flow=0.0510g/s  T=15.3keV  shape=1.55 | ActualT=16.69  Q=3.96  Risk=0.223
+2026-05-23 13:59:50,818  INFO  Step  19 | B=11.95T  Flow=0.0509g/s  T=15.3keV  shape=1.54 | ActualT=16.82  Q=3.80  Risk=0.210
+2026-05-23 13:59:50,843  INFO  Step  20 | B=11.92T  Flow=0.0505g/s  T=15.4keV  shape=1.54 | ActualT=16.62  Q=4.05  Risk=0.211
+2026-05-23 13:59:50,866  INFO  Step  21 | B=11.98T  Flow=0.0508g/s  T=15.3keV  shape=1.54 | ActualT=17.01  Q=3.43  Risk=0.227
+2026-05-23 13:59:50,892  INFO  Step  22 | B=11.91T  Flow=0.0507g/s  T=15.4keV  shape=1.55 | ActualT=17.54  Q=2.68  Risk=0.231
+2026-05-23 13:59:50,924  INFO  Step  23 | B=11.82T  Flow=0.0504g/s  T=15.5keV  shape=1.56 | ActualT=17.18  Q=3.26  Risk=0.247
+2026-05-23 13:59:50,949  INFO  Step  24 | B=11.92T  Flow=0.0509g/s  T=15.4keV  shape=1.56 | ActualT=17.18  Q=3.27  Risk=0.249
+2026-05-23 13:59:50,974  INFO  Step  25 | B=11.94T  Flow=0.0510g/s  T=15.4keV  shape=1.56 | ActualT=17.17  Q=3.27  Risk=0.273
+2026-05-23 13:59:50,995  INFO  Step  26 | B=11.91T  Flow=0.0512g/s  T=15.4keV  shape=1.58 | ActualT=17.15  Q=3.36  Risk=0.280
+2026-05-23 13:59:51,013  INFO  Step  27 | B=11.92T  Flow=0.0513g/s  T=15.3keV  shape=1.59 | ActualT=16.66  Q=3.97  Risk=0.228
+2026-05-23 13:59:51,045  INFO  Step  28 | B=11.87T  Flow=0.0510g/s  T=15.3keV  shape=1.57 | ActualT=16.47  Q=4.22  Risk=0.228
+2026-05-23 13:59:51,076  INFO  Step  29 | B=11.94T  Flow=0.0511g/s  T=15.3keV  shape=1.56 | ActualT=16.63  Q=4.16  Risk=0.228
+2026-05-23 13:59:51,096  INFO  Step  30 | B=11.99T  Flow=0.0510g/s  T=15.3keV  shape=1.54 | ActualT=16.56  Q=4.21  Risk=0.224
+2026-05-23 13:59:51,124  INFO  Step  31 | B=11.99T  Flow=0.0510g/s  T=15.3keV  shape=1.54 | ActualT=16.19  Q=4.56  Risk=0.222
+2026-05-23 13:59:51,150  INFO  Step  32 | B=11.97T  Flow=0.0512g/s  T=15.2keV  shape=1.55 | ActualT=16.48  Q=4.18  Risk=0.189
+2026-05-23 13:59:51,189  INFO  Step  33 | B=11.95T  Flow=0.0507g/s  T=15.3keV  shape=1.55 | ActualT=17.01  Q=3.45  Risk=0.182
+2026-05-23 13:59:51,207  INFO  Step  34 | B=11.92T  Flow=0.0504g/s  T=15.4keV  shape=1.54 | ActualT=16.61  Q=3.93  Risk=0.216
+2026-05-23 13:59:51,226  INFO  Step  35 | B=11.96T  Flow=0.0510g/s  T=15.4keV  shape=1.55 | ActualT=16.78  Q=3.88  Risk=0.235
+2026-05-23 13:59:51,246  INFO  Step  36 | B=11.98T  Flow=0.0510g/s  T=15.4keV  shape=1.55 | ActualT=17.61  Q=2.74  Risk=0.227
+2026-05-23 13:59:51,270  INFO  Step  37 | B=11.91T  Flow=0.0508g/s  T=15.5keV  shape=1.53 | ActualT=17.17  Q=3.45  Risk=0.232
+2026-05-23 13:59:51,295  INFO  Step  38 | B=11.88T  Flow=0.0511g/s  T=15.4keV  shape=1.53 | ActualT=16.67  Q=4.27  Risk=0.236
+2026-05-23 13:59:51,313  INFO  Step  39 | B=11.82T  Flow=0.0515g/s  T=15.2keV  shape=1.54 | ActualT=16.32  Q=4.65  Risk=0.223
+2026-05-23 13:59:51,339  INFO  Step  40 | B=11.97T  Flow=0.0512g/s  T=15.2keV  shape=1.54 | ActualT=16.09  Q=4.91  Risk=0.199
+2026-05-23 13:59:51,357  INFO  Step  41 | B=11.94T  Flow=0.0510g/s  T=15.2keV  shape=1.53 | ActualT=15.79  Q=5.16  Risk=0.225
+2026-05-23 13:59:51,377  INFO  Step  42 | B=11.94T  Flow=0.0514g/s  T=15.1keV  shape=1.54 | ActualT=16.53  Q=4.50  Risk=0.218
+2026-05-23 13:59:51,394  INFO  Step  43 | B=11.87T  Flow=0.0512g/s  T=15.2keV  shape=1.53 | ActualT=16.18  Q=4.69  Risk=0.171
+2026-05-23 13:59:51,414  INFO  Step  44 | B=11.97T  Flow=0.0505g/s  T=15.2keV  shape=1.54 | ActualT=16.62  Q=4.19  Risk=0.195
+2026-05-23 13:59:51,432  INFO  Step  45 | B=11.97T  Flow=0.0507g/s  T=15.3keV  shape=1.53 | ActualT=16.47  Q=4.09  Risk=0.185
+2026-05-23 13:59:51,453  INFO  Step  46 | B=11.95T  Flow=0.0507g/s  T=15.3keV  shape=1.55 | ActualT=15.94  Q=4.71  Risk=0.185
+2026-05-23 13:59:51,474  INFO  Step  47 | B=11.94T  Flow=0.0511g/s  T=15.2keV  shape=1.56 | ActualT=16.06  Q=4.56  Risk=0.207
+2026-05-23 13:59:51,499  INFO  Step  48 | B=11.87T  Flow=0.0514g/s  T=15.2keV  shape=1.57 | ActualT=16.49  Q=4.03  Risk=0.192
+2026-05-23 13:59:51,521  INFO  Step  49 | B=11.77T  Flow=0.0511g/s  T=15.3keV  shape=1.58 | ActualT=16.79  Q=3.67  Risk=0.223
